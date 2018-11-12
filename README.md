@@ -1,0 +1,1 @@
+> $ java -jar script.jar -r boot/recovery_image_name.img
